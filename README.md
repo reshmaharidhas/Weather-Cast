@@ -12,5 +12,10 @@ Weather app for desktop
 - Matplotlib
 - REST API
 
+## API used
+- OpenWeatherMap API
+- WeatherAPI API
+- apiip API
+
 ## License
 MIT License
