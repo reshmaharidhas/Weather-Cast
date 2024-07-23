@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/release-date/reshmaharidhas/Weather-Cast"/>
   <img src="https://img.shields.io/github/license/reshmaharidhas/Weather-Cast?labelColor=%23000000"/>
 </p>
-Weather app for desktop
+Weather app is a desktop weather app for Windows OS.
 
 ![image](https://github.com/user-attachments/assets/b9a8a4ba-f915-44c7-9ffc-9a793d45a244)
 
