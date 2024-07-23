@@ -22,6 +22,55 @@ Weather app for desktop
 - OpenWeatherMap API
 - WeatherAPI API
 - apiip API
+  
+## Features
+- Displays current weather information of selected city.
+  - Current temperature and description of current temperature (sunny☀️/cloudy☁️/rainy🌧️/thunder⛈️)
+  - Feels-like temperature
+  - Wind speed
+  - Humidity
+  - Dew point
+  - Visibility
+  - Pressure
+  - UV index
+  - Air pollution index
+- Dynamically changing background on dashboard based on current weather temperature of selected city.
+- Displays global cities with the same name of the city you searched in combobox to let the user choose from.
+- Displays the country name of the selected city with the local time.🕦
+- Displays present day's information
+  - Moon phase with picture
+    - 🌑 New moon
+    - 🌒 Waxing Crescent
+    - 🌓 First Quarter
+    - 🌔 Waxing Gibbous
+    - 🌕 Full moon
+    - 🌖 Waning Gibbous
+    - 🌗 Third Quarter
+    - 🌘 Waning Crescent
+  - Displays sunrise🌅, sunset🌇, moon rise, and moon set🌕 timing of present day in the selected city.
+- View all weather data of user's current location on clicking the location button by automatically detecting user location using public IP address.
+- Shows the weather forecast for the next 5 days with temperature, temperature description, lowest and highest temperature for each day with icons.
+- View the hourly temperatures for the next 10 hours in 3 hour interval period.
+- Line chart📈 to visualize the next 10 hourly weather fluctuations based on temperature.
+- One click refresh button to view the updated weather information of the last selected city.
+- Displays the current air pollution index with a human face depicting the air pollution level of the selected city.
+- Displays current UV index with tips to protect from harmful UV rays.
+- Bar chart📊 to visualize the present day's hourly UV index with varied colors.
+- Toggle between Fahrenheit and Celsius temperature🌡️ units in single click of button.
+- Search for weather data for any city around the world in a navigation friendly interface.🔍
+
+## Screenshots
+![delhi_night](https://github.com/user-attachments/assets/544e62a4-170f-4785-9ee4-1e493ca00519)
+![berlin_germany_day](https://github.com/user-attachments/assets/c432070c-1f51-4195-8e27-d5a8e531f4e4)
+![amsterdam_US_day_clearsun](https://github.com/user-attachments/assets/45443c13-78a4-4c7d-9189-7e6286150918)
+
+## Run⚙️
+Before running the application,
+- Obtain API key from OpenWeatherMap API.
+- Obtain API key from WeatherAPI API.
+- Obtain API access key from www.apiip.net
+- Insert your API keys into weather_cast.py file at line 29,30 and 539, and replace with your new registered API keys = "YOUR_...._API_KEY'
+- Run the main.py file.
 
 ## License
 MIT License
