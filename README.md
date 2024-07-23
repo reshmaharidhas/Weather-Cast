@@ -6,6 +6,9 @@
 </p>
 Weather app for desktop
 
+![image](https://github.com/user-attachments/assets/b9a8a4ba-f915-44c7-9ffc-9a793d45a244)
+
+
 ## Tech Stack
 - Python
 - Tkinter
