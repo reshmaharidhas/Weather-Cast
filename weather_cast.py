@@ -362,7 +362,7 @@ class WeatherCast:
                     extracted_date_month = five_day_dates[num]
                     extracted_date = extracted_date_month[3:]
                     extracted_month = extracted_date_month[0:2]
-                    five_day_dates[num] = extracted_date+" "+self.months_list[int(extracted_month)]
+                    five_day_dates[num] = extracted_date+" "+self.months_list[int(extracted_month)-1]
                 for widget in self.forecast_sub_frame2.winfo_children():
                     widget.destroy()
                 tk.Label(self.forecast_sub_frame2, text="Next 5 days forecast", font=("Arial", 16),bg=self.bg_dark_color,fg="#ffffff").grid(row=0,
