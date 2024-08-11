@@ -16,16 +16,18 @@ Weather app is a desktop weather app for Windows OS.
 - Python
 - Tkinter
 - Matplotlib
+- Seaborn
 - REST API
 
 ## API used
 - OpenWeatherMap API
 - WeatherAPI API
 - apiip API
+- Gemini API
   
 ## Features
 - Displays current weather information of selected city.
-  - Current temperature and description of current temperature (sunny☀️/cloudy☁️/rainy🌧️/thunder⛈️)
+  - Current temperature and description of current temperature (sunny☀️/cloudy☁️/rainy🌧️/thunder⛈️/Snow)
   - Feels-like temperature
   - Wind speed
   - Humidity
@@ -38,7 +40,7 @@ Weather app is a desktop weather app for Windows OS.
 - Displays global cities with the same name of the city you searched in combobox to let the user choose from.
 - Displays the country name of the selected city with the local time.🕦
 - Displays present day's information
-  - Moon phase with picture
+  - Moon phase with picture and illumination in percentage.
     - 🌑 New moon
     - 🌒 Waxing Crescent
     - 🌓 First Quarter
@@ -49,7 +51,8 @@ Weather app is a desktop weather app for Windows OS.
     - 🌘 Waning Crescent
   - Displays sunrise🌅, sunset🌇, moon rise, and moon set🌕 timing of present day in the selected city.
 - View all weather data of user's current location on clicking the location button by automatically detecting user location using public IP address.
-- Shows the weather forecast for the next 5 days with temperature, temperature description, lowest and highest temperature for each day with icons.
+- Present day's air pollutants and their concentrations to safeguard your respiratory health.
+- Shows the overall weather forecast for the next 2 days with temperature, temperature description, lowest and highest temperature for each day with icons.
 - View the hourly temperatures for the next 10 hours in 3 hour interval period.
 - Line chart📈 to visualize the next 10 hourly weather fluctuations based on temperature.
 - One click refresh button to view the updated weather information of the last selected city.
@@ -58,6 +61,23 @@ Weather app is a desktop weather app for Windows OS.
 - Bar chart📊 to visualize the present day's hourly UV index with varied colors.
 - Toggle between Fahrenheit and Celsius temperature🌡️ units in single click of button.
 - Search for weather data for any city around the world in a navigation friendly interface.🔍
+- Detailed hourly weather forecast for the next 3 days including the present day visualized using line charts for,
+  - Temperature
+  - Pressure
+  - Wind speed
+  - Humidity
+  - Precipitation
+  - Chance of rain
+  - Cloud cover
+  - Snow
+  - Visibility
+  - Dew point
+  - UV index (bar chart)
+- Historical weather trends visualization for the past 2 days with hourly details for
+  - Temperature
+  - Precipitation
+- Wind direction and speed visualization for the next 3 days on a custom-designed wind rose chart.
+- View a random interesting fact about the city searched generated using Gemini AI.
 
 ## Screenshots
 ![delhi_night](https://github.com/user-attachments/assets/544e62a4-170f-4785-9ee4-1e493ca00519)
@@ -69,7 +89,8 @@ Before running the application,
 - Obtain API key from OpenWeatherMap API.
 - Obtain API key from WeatherAPI API.
 - Obtain API access key from www.apiip.net
-- Insert your API keys into weather_cast.py file at line 29,30 and 539, and replace with your new registered API keys = "YOUR_...._API_KEY'
+- Obtain API key from Gemini API.
+- Insert your API keys into weather_cast.py file at appropriate places in the code and replace with your new registered API keys = "YOUR_...._API_KEY'
 - Run the main.py file.
 
 ## License
