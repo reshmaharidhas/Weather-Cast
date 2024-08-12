@@ -3,6 +3,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FWeather-Cast&labelColor=%23000000&countColor=%2300ff00&style=plastic&labelStyle=none"/>
   <img src="https://img.shields.io/github/watchers/reshmaharidhas/Weather-Cast"/>
   <img src="https://img.shields.io/github/languages/top/reshmaharidhas/Weather-Cast?labelColor=%23000000"/>
+  <img src="https://img.shields.io/sourceforge/dt/weather-cast?label=Sourceforge%20downloads&labelColor=%23FF0000&color=%23000000"/>
   <img src="https://img.shields.io/github/v/release/reshmaharidhas/Weather-Cast"/>
   <img src="https://img.shields.io/github/release-date/reshmaharidhas/Weather-Cast"/>
   <img src="https://img.shields.io/github/license/reshmaharidhas/Weather-Cast?labelColor=%23000000"/>
