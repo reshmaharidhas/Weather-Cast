@@ -17,6 +17,7 @@ Weather app is a desktop weather app for Windows OS.
 ## Tech Stack
 - Python
 - Tkinter
+- Gemini AI
 - Matplotlib
 - Seaborn
 - REST API
