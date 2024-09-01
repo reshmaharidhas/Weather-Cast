@@ -10,9 +10,10 @@
 </p>
 Weather app is a desktop weather app for Windows OS.
 
-![zurich](https://github.com/user-attachments/assets/53dd2e8a-e12d-402b-83a2-ee28ba930196)
+![frankfurt_screenshot](https://github.com/user-attachments/assets/578c795c-3a7d-4ed0-83cc-f32d08f2576f)
 
-
+## Demo
+https://github.com/user-attachments/assets/6cb2b071-30f1-4dab-8e6d-bdccb84467b6
 
 ## Tech Stack
 - Python
