@@ -84,7 +84,8 @@ https://github.com/user-attachments/assets/6cb2b071-30f1-4dab-8e6d-bdccb84467b6
 - View a random interesting fact about the city searched generated using Gemini AI.
 
 ## Screenshots
-![delhi_night](https://github.com/user-attachments/assets/544e62a4-170f-4785-9ee4-1e493ca00519)
+![hyderabad_screenshot](https://github.com/user-attachments/assets/53af5cdc-5e6f-4948-bfe9-a9c64c9a1874)
+![tokyo](https://github.com/user-attachments/assets/ad470454-843a-40a7-92d2-139e9bf96d60)
 ![berlin_germany_day](https://github.com/user-attachments/assets/c432070c-1f51-4195-8e27-d5a8e531f4e4)
 ![amsterdam_US_day_clearsun](https://github.com/user-attachments/assets/45443c13-78a4-4c7d-9189-7e6286150918)
 
