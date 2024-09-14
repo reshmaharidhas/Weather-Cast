@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/github/watchers/reshmaharidhas/Weather-Cast"/>
   <img src="https://img.shields.io/github/languages/top/reshmaharidhas/Weather-Cast?labelColor=%23000000"/>
   <img src="https://img.shields.io/sourceforge/dt/weather-cast?label=Sourceforge%20downloads&labelColor=%23FF0000&color=%23000000"/>
+  <img src="https://img.shields.io/github/downloads/reshmaharidhas/Weather-Cast/total?label=GitHub%20downloads&labelColor=%23000000&color=%230000FF"/>
   <img src="https://img.shields.io/github/v/release/reshmaharidhas/Weather-Cast"/>
   <img src="https://img.shields.io/github/release-date/reshmaharidhas/Weather-Cast"/>
   <img src="https://img.shields.io/github/license/reshmaharidhas/Weather-Cast?labelColor=%23000000"/>
